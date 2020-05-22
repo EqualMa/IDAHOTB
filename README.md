@@ -10,6 +10,8 @@ _This a repo to backup &amp; show my self-made slogans and pictures for 517_
 
 ## <span style="color: transparent; background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; background-clip: text;">2020 517</span>
 
+> This picture is contributed to [查收你的5.20专属礼物： 一百零一道彩虹](https://mp.weixin.qq.com/s/z-o39NR_jdF7zeUsoB5wLw), check the 101 wishes from me and others!
+
 <p align="center">
 <img alt="Born This Way Slogan" src="2020/BornThisWaySlogan.png" width="400px" />
 </p>
